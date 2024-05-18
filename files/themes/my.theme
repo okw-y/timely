@@ -1,0 +1,58 @@
+// User theme file
+// WARNING: Use only hex color or "transparent" color
+
+// Constants
+
+iconColor=#89eb75
+titleBarTheme=dark
+titleBarIconColor=#3ae872
+
+// Base colors
+
+background=#212121
+labelColor=#ffffff
+
+// Scrollbar
+
+scrollbarBackground=#242424
+scrollbarHandleColor=#484848
+
+// Context Menu
+
+contextMenuItemColor=#ffffff
+contextMenuBackground=#242424
+contextMenuSelectedBackground=#323232
+
+// Choose data
+
+chooseDeltaTypeColor=#242424
+
+chooseData=transparent
+chooseRectColor=#cccccc
+chooseLabelColor=#ffffff
+
+// Share button
+
+shareButtonColor=#242424
+shareButtonHoverColor=#282828
+
+// Statistic view
+
+statisticChoose=#242424
+statisticAppBackground=#242424
+statisticViewBackground=#212121
+
+// Applications list
+
+applicationList=#212121
+applicationListItem=#242424
+applicationListSpent=#282828
+applicationListLabel=#ffffff
+
+// Pie chart
+
+pieGraphColor1=#ebcb75
+pieGraphColor2=#89eb75
+pieGraphColor3=#7587eb
+pieGraphColor4=#eb7575
+pieGraphColor5=#75ebc0
